@@ -62,30 +62,27 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/amanda-ferraboli"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/"
+      url: "https://medium.com/@amanda.ferraboli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/amferraboli"
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/amanda-ferraboli"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/"
+      url: "https://medium.com/@amanda.ferraboli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/amferraboli"
 
 defaults:
   # _posts
